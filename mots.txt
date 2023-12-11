@@ -1,0 +1,5 @@
+mots_pour_pendu = [
+    'python', 'pendu', 'jeu', 'programmation', 'ordinateur', 'apprentissage',
+    'algorithme', 'developpement', 'intelligence', 'programme', 'connaissance',
+    'informatique', 'technologie', 'logiciel', 'web'
+]
